@@ -4,7 +4,7 @@
 # PORT STATUS
 
 **Overall Project Completion** 
-![Total Progress](https://img.shields.io/badge/Total_Progress-0%25-lightgrey
+![Progress](https://img.shields.io/badge/Total_Progress-0%25-lightgrey
 
 * **High-Performance Engine:** GPU-accelerated brushes and 32-bit float textures via Raylib/OpenGL for massive particle counts and zero lag.
 * **Toggleable Undo (Temporal Lock):** Switchable history buffer to alternate between "Flow State" (No Undo) and "Refinement Mode" (Undo/Redo).
