@@ -1,4 +1,4 @@
-# REBIRTH
+# ALCHEMY REBIRTH
 ### Proposed Features & Enhancements (C/Raylib Port)
 
 * **High-Performance Engine:** GPU-accelerated brushes and 32-bit float textures via Raylib/OpenGL for massive particle counts and zero lag.
