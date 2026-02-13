@@ -1,6 +1,10 @@
 # ALCHEMY REBIRTH
 ### Proposed Features & Enhancements (C/Raylib Port)
 
+# PORT STATUS
+
+**Overall Project Completion** ![Total Progress](https://img.shields.io/badge/Total_Progress-0%25-lightgrey
+
 * **High-Performance Engine:** GPU-accelerated brushes and 32-bit float textures via Raylib/OpenGL for massive particle counts and zero lag.
 * **Toggleable Undo (Temporal Lock):** Switchable history buffer to alternate between "Flow State" (No Undo) and "Refinement Mode" (Undo/Redo).
 * **Fluid Dynamics Brushes:** Real-time Navier-Stokes ink simulation for swirling, organic strokes.
@@ -11,6 +15,40 @@
 * **Snapshot Branching:** Save state thumbnails to create non-linear version forks during a session.
 * **Shader Plugin System:** Hot-reloading `.fs` fragment shaders for custom real-time filters and "Affect" modules.
 * **Command Stream Export:** Save sessions as lightweight vertex data for high-res re-rendering or 3D path export.
+
+---
+
+### Feature Roadmap & Progress
+
+* **High-Performance Engine** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *GPU-accelerated brushes and 32-bit float textures via Raylib/OpenGL.*
+
+* **Toggleable Undo (Temporal Lock)** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Switchable history buffer to alternate between "Flow State" and "Refinement Mode".*
+
+* **Fluid Dynamics Brushes** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Real-time Navier-Stokes ink simulation for swirling, organic strokes.*
+
+* **Generative Growth (L-Systems)** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Brushes that evolve into fractals or vines based on geometric rules.*
+
+* **Advanced Audio/MIDI Mapping** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Multi-band FFT analysis and MIDI CC support for brush jitter/size.*
+
+* **Performance Symmetry** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Includes Radial (Mandala), Tiling, and 3D-projected symmetry groups.*
+
+* **Displacement Mapping ("Shadow" Module)** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Brushes that "carve" or "extrude" the canvas based on heightmaps.*
+
+* **Snapshot Branching** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Save state thumbnails to create non-linear version forks during a session.*
+
+* **Shader Plugin System** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Hot-reloading `.fs` fragment shaders for custom filters.*
+
+* **Command Stream Export** ![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)  
+    *Save sessions as lightweight vertex data for high-res re-rendering.*
 
 
 ----
