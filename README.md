@@ -1,5 +1,17 @@
-# UPDATE - Alchemy is no longer maintained.
-This repository is for archival purposes.
+# REBIRTH
+### Proposed Features & Enhancements (C/Raylib Port)
+
+* **High-Performance Engine:** GPU-accelerated brushes and 32-bit float textures via Raylib/OpenGL for massive particle counts and zero lag.
+* **Toggleable Undo (Temporal Lock):** Switchable history buffer to alternate between "Flow State" (No Undo) and "Refinement Mode" (Undo/Redo).
+* **Fluid Dynamics Brushes:** Real-time Navier-Stokes ink simulation for swirling, organic strokes.
+* **Generative Growth (L-Systems):** Brushes that evolve into fractals or vines post-stroke based on geometric rules.
+* **Advanced Audio/MIDI Mapping:** Multi-band FFT analysis and MIDI CC support to map brush jitter/size to specific frequencies or external hardware.
+* **Performance Symmetry:** Beyond simple mirroring; includes Radial (Mandala), Tiling, and 3D-projected symmetry groups.
+* **Displacement Mapping ("Shadow" Module):** Brushes that "carve" or "extrude" the canvas based on luminance/heightmaps.
+* **Snapshot Branching:** Save state thumbnails to create non-linear version forks during a session.
+* **Shader Plugin System:** Hot-reloading `.fs` fragment shaders for custom real-time filters and "Affect" modules.
+* **Command Stream Export:** Save sessions as lightweight vertex data for high-res re-rendering or 3D path export.
+
 
 ----
 
